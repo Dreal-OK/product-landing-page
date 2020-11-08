@@ -1,0 +1,20 @@
+
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#header {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+#header #header-img {
+  width: 50px;
+  border-radius: 25%;
+}
+
